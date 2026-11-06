@@ -1,0 +1,13 @@
+comparison,metric,mean_difference,ci95_half_width,excludes_zero
+Q-learning agent minus Fixed baseline (medium),reward,100.00603262802079,1.0664394396566625,True
+Q-learning agent minus Fixed baseline (medium),steps,0.52,0.1451102394454616,True
+Q-learning agent minus Fixed baseline (medium),violations,-32.12,0.42419168710631394,True
+Q-learning agent minus Fixed baseline (medium),wear,-0.30914146156213457,0.001395310515499589,True
+Q-learning agent minus Fixed baseline (medium),volume_proxy,4.7059375,0.12782339788342606,True
+Q-learning agent minus Fixed baseline (medium),tool_failed,-0.56,0.09897931007146,True
+Q-learning agent minus Best fixed setting,reward,5.750959913454697,0.27075064999390325,True
+Q-learning agent minus Best fixed setting,steps,0.0,0.0,False
+Q-learning agent minus Best fixed setting,violations,0.07,0.05087618815528657,True
+Q-learning agent minus Best fixed setting,wear,0.04323295762375956,0.001284676740525467,True
+Q-learning agent minus Best fixed setting,volume_proxy,4.1859375,0.14305569481213187,True
+Q-learning agent minus Best fixed setting,tool_failed,0.0,0.0,False
